@@ -8,8 +8,13 @@ One solution to the Knight’s Tour was given by the Mechanical Turk, a chess-pl
 ### Links
 
 [Knight's Tour Puzzle on the web via Processing.js](http://sburgess.us/knight)
+
 [Knight's Tour Wikipedia](http://en.wikipedia.org/wiki/Knight%27s_tour "Knight's Tour Wikipedia Page")
+
 [Knight's Tour on Numberphile (YouTube)](https://www.youtube.com/watch?v=ab_dY3dZFHM)
+
 [Mechanical Turk on Wikipedia](http://en.wikipedia.org/wiki/The_Turk)
+
 [Hamiltonian Path on Wikipedia](http://en.wikipedia.org/wiki/Hamiltonian_path)
+
 [Hamiltonian Path on WolframAlpha Mathworld](http://mathworld.wolfram.com/HamiltonianPath.html)
